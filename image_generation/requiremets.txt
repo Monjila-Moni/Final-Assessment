@@ -1,0 +1,14 @@
+torch 
+torchvision 
+torchaudio 
+diffusers
+transformers
+datasets
+accelerate
+numpy
+pillow 
+tqdm
+diffusers
+transformers
+ftfy
+accelerate
